@@ -1,0 +1,1 @@
+These are my projects I did for at my internship at CODSOFT. I chose the Python course, the projects are focused on were the calculator, the rock, paper, scissors game and lastly the password generator.
